@@ -1,2 +1,2 @@
 # perfil
-Este repositorio no tiene absolutamente nada, no es necesaria ninguna indicacion.
+Para poder utilizar la pagina web se debe abrir con un navegador.
